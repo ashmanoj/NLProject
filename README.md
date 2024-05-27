@@ -5,3 +5,5 @@ We have a column in the dataset which has the headline, and will use NLP techniq
 We can use sentiment along with other columns to see if we can predict either 0(sell/don't buy) or 1 (buy)
 
 We will also train/test split the data and then do it on the testing set to see if close price was higher than open price
+
+Kiyonna Kapoor, Ash Manoj, Sriya Nimmagadda, Saathvik Konidena
